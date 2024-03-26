@@ -3,16 +3,17 @@ h1 {
     color: #544733;
     font-family: Monospace;
 }
-
+h2 {
+    text-align: center;
+    color: #544733;
+    font-family: Monospace;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
 }
-
-
-
 .container {
     max-width: 800px;
     margin: 50px auto;
@@ -39,8 +40,6 @@ body {
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
- 
-
 .profile b, .interests b, .contact-information b {
     color: #000000;
 }
