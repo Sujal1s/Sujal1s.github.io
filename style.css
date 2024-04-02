@@ -6,28 +6,77 @@ h1 {
 h2 {
     text-align: center;
     color: #544733;
-    font-family: Monospace;
-}
+    font-family: Monospace;}
+
+h3 {
+   text-align: center;
+   color: #e7ac53;
+   font-family: Monospace;
+   font-size: 20px;
+  
+    
+}    
+h4 {
+   text-align: center;
+   color: #0d3b66;
+   font-family: Monospace;
+   font-size: 24px;
+ 
+   
+}   
+h5 {
+  text-align: center;
+  color: #544733;
+  font-family: Monospace; 
+  font-size: 20px;
+   
+} 
+h6 {
+  text-align: center;
+  color: #544733;
+  font-family: Monospace; 
+  font-size: 20px;
+   
+}   
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
 }
-.container {
+.Basic_info {
     max-width: 800px;
     margin: 50px auto;
-    background-color: #EDF4F2;
+    background-color: #dce0d9;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     
 }
+.experience
+{
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: #fbf6ef;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.skills {
+  max-width: 800px;
+  margin: 50px auto;
+  background-color: #edf2f4;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 .Education{
 
     max-width: 800px;
     margin: 50px auto;
-    background-color: #5b846c;
+    background-color: #f4f1bb;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -35,12 +84,12 @@ body {
 .contactinfo {
     max-width: 800px;
     margin: 50px auto;
-    background-color: #52645a;
+    background-color: #ead7c3;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-.profile b, .interests b, .contact-information b {
+.contact-information b {
     color: #000000;
 }
 
